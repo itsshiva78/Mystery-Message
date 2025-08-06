@@ -60,7 +60,7 @@ export default function Home() {
 
       {/* Footer */}
       <footer className="text-center p-4 md:p-6 bg-black text-white">
-        © 2025 True Feedback. All rights reserved.
+        © 2025 Whispers Within. All rights reserved.
       </footer>
     </>
   );
